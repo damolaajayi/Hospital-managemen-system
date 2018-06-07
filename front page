@@ -1,0 +1,16 @@
+<html>
+<head><title>Hospital Management</title></head>
+    <body background = "C:\Users\user\Desktop/light.jpg">
+ <!-- Strong stands for bold -->
+ <h1>Welcome To Hospital Management System</h1> <br/>
+ <h2>Medical Services You Can Trust</h2> <br/>
+ 
+ <ol>
+ <li>Application</li> 
+ <li>Doctor</li> 
+ <li>Patient</li> 
+ <hr />
+<img scr = "img/pagelogo.jpg"/><br />
+</ol> 
+    </body>
+	</html>
